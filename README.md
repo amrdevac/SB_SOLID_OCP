@@ -13,7 +13,7 @@ we are gonna implement the Open Close Principle method
 
 #### You can find me  :
     * Instagram  @amrullahdev
-    * Twitter  @devactor
+    * Twitter  @devactor_
 #### Contact Me :
     * amrullahdev@gmail.com
     * amrullahdev@yahoo.com
